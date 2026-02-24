@@ -1,0 +1,10 @@
+# Chaves e certificados
+*.pem
+*.key
+
+# Logs e arquivos temporários
+*.log
+.DS_Store
+
+# Dados de volumes Docker
+volumes/
