@@ -1,6 +1,7 @@
 # Chaves e certificados
 *.pem
 *.key
+.env
 
 # Logs e arquivos temporários
 *.log
